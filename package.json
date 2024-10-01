@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "base-template": "file:template",
+    "express": "^4.21.0",
+    "http-proxy": "^1.18.1",
+    "http-proxy-middleware": "^3.0.2"
+  }
+}
